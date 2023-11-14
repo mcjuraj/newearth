@@ -1,4 +1,5 @@
-name: 'Upload Episode from YouTube To Anchor.Fm'
+- name: Upload Episode from YouTube To Anchor.Fm
+  uses: Schrodinger-Hat/youtube-to-anchorfm@v2.3.0
 
 on:
   push:
