@@ -20,5 +20,4 @@ jobs:
           SPOTIFY_EMAIL: ${{ secrets.SPOTIFY_EMAIL }}
           SPOTIFY_PASSWORD: ${{ secrets.SPOTIFY_PASSWORD }}          
           EPISODE_PATH: /github/workspace
-          LOAD_THUMBNAIL: true
           SET_PUBLISH_DATE: true
